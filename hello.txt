@@ -1,1 +1,2 @@
 Hello, Wellcome to Cloudthat DevOps Training!
+We are CTJGP Batch 33.
