@@ -213,7 +213,7 @@ npm run build
 
 Press `Ctrl+Shift+P` and type: **"Preferences: Open User Settings (JSON)"**
 
-Add this configuration (update the path if your username is different):
+Add this configuration (update the path if your **MCP Server** is different):
 
 ```json
 {
@@ -222,9 +222,9 @@ Add this configuration (update the path if your username is different):
       "command": "node",
       "args": [
         "C:\\Users\\SirinAli\\OneDrive - CloudThat\\Desktop\\test4\\mcp-weather-server\\dist\\index.js"
-        //MCP Server Path/URL
+      
       ],
-      "disabled": false
+      "enabled": true
     }
   }
 }
