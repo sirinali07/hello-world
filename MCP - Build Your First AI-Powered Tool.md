@@ -221,7 +221,7 @@ Add this configuration (update the path if your username is different):
     "weather": {
       "command": "node",
       "args": [
-        "C:\\Users\\SirinAli\\OneDrive - CloudThat\\Desktop\\test4\\mcp-weather-server\\dist\\index.js"
+        "C:\\Users\\SirinAli\\OneDrive - CloudThat\\Desktop\\test4\\mcp-weather-server\\dist\\index.js" #MCP Server Path/URL
       ],
       "disabled": false
     }
