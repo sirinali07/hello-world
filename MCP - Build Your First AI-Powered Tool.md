@@ -378,18 +378,6 @@ Replace mock data with a real weather API like OpenWeatherMap.
 
 ---
 
-## 📚 What You Learned
-
-✅ **MCP Fundamentals** - How AI connects to external tools  
-✅ **Server Creation** - Built a functional MCP server from scratch  
-✅ **Tool Design** - Created AI-callable functions with schemas  
-✅ **VS Code Integration** - Configured and tested MCP in Copilot  
-✅ **Real-world Testing** - Validated through natural conversation  
-
----
-
-## 🚀 Next Steps
-
 ### Ideas for Your Own MCP Servers:
 
 **For Developers:**
@@ -444,32 +432,9 @@ Test your understanding:
 5. **Where do you configure MCP servers in VS Code?**
    <details><summary>Answer</summary>settings.json under "github.copilot.chat.mcp.servers"</details>
 
----
 
-## 💬 Feedback & Support
-
-**Questions?** Ask in Copilot Chat:
-```
-How do I add error handling to my MCP server?
-Show me how to add logging to my weather server
-Help me debug why my MCP tool isn't being called
-```
 
 ---
 
 ## 🎉 Congratulations!
 
-You've successfully built and deployed your first MCP server! You can now extend GitHub Copilot with any capability you can imagine.
-
-**Share your creation:**
-- Post on GitHub with tag `#MCP-server`
-- Share in the MCP community discussions
-- Build something amazing and tell others!
-
----
-
-**Lab Version**: 2.0 (Condensed Edition)  
-**Last Updated**: March 26, 2026  
-**Duration**: 60-75 minutes  
-
-**Created with ❤️ for hands-on learners**
