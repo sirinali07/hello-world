@@ -43,7 +43,8 @@ node --version
 npm --version
 
 # Check Copilot is installed
-code --list-extensions | Select-String copilot
+
+
 ```
 
 **✓ You should see version numbers**. If not, install Node.js from https://nodejs.org
@@ -56,7 +57,6 @@ code --list-extensions | Select-String copilot
 
 ```powershell
 # Navigate to your workspace
-cd "C:\Users\SirinAli\OneDrive - CloudThat\Desktop\test4"
 
 # Create and enter project directory
 mkdir mcp-weather-server
