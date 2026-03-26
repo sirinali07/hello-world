@@ -51,7 +51,7 @@ npm --version
 
 ---
 
-## Part 1: Setup Your MCP Server (15 minutes)
+## Part 1: Setup Your MCP Server 
 
 ### Step 1: Create Project Structure
 
@@ -112,7 +112,7 @@ Open `package.json` and add:
 
 ---
 
-## Part 2: Build Your Weather Server (20 minutes)
+## Part 2: Build Your Weather Server
 
 ### Step 4: Create the MCP Server
 
@@ -206,8 +206,10 @@ main().catch((error) => {
 
 ### Step 5: Build the Server
 
+Make sure you're in the project directory
+
+Compile TypeScript to JavaScript
 ```powershell
-# Compile TypeScript to JavaScript
 npm run build
 ```
 
@@ -215,7 +217,7 @@ npm run build
 
 ---
 
-## Part 3: Connect to VS Code (10 minutes)
+## Part 3: Connect to VS Code
 
 ### Step 6: Configure VS Code
 
@@ -230,7 +232,6 @@ Add this configuration (update the path if your **MCP Server** is different):
       "command": "node",
       "args": [
         "C:\\Users\\SirinAli\\OneDrive - CloudThat\\Desktop\\test4\\mcp-weather-server\\dist\\index.js"
-      
       ],
       "enabled": true
     }
@@ -246,7 +247,7 @@ Press `Ctrl+Shift+P` and run: **"Developer: Reload Window"**
 
 ---
 
-## Part 4: Test Your MCP Server! (15 minutes)
+## Part 4: Test Your MCP Server! 
 
 ### Step 8: Verify It's Working
 
