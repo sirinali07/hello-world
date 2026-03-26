@@ -98,8 +98,16 @@ Open `package.json` and add:
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.28.0"
   }
 }
+
 ```
 
 ---
